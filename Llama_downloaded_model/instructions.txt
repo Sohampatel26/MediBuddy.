@@ -1,4 +1,4 @@
-##So in actual code I do have downloaded Lama Model from Hugging face in this folder,
+##So in actual code I do have downloaded Llama Model from Hugging face in this folder,
 but cant push the model of more then 3.5 gb on github. SO providing link to download the model 
 llama-2-7b-chat.ggmlv3.q4_0.bin
 
